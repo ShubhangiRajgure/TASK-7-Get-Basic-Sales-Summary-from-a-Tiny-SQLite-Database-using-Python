@@ -38,8 +38,3 @@ Libraries:
 * sqlite3 (built-in)
 * pandas
 * matplotlib
-
-
-
-Example: Laptops contribute the highest revenue in this sample dataset.
-
