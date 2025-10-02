@@ -34,7 +34,7 @@ It is a simple end-to-end example that works in both **Jupyter Notebook and `.py
 
 **Requirements**
 - Python 3.x
-Libraries:
-* sqlite3 (built-in)
-* pandas
-* matplotlib
+- Libraries:
+  * sqlite3 (built-in)
+  * pandas
+  * matplotlib
